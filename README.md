@@ -2,4 +2,8 @@
 
 ## Purpose
 
-This repo tracks issues across Flow Reference Wallet platforms.
+This repo intends tracks issues across Flow Reference Wallet platforms.
+
+***
+This repo is currently lives here: https://github.com/Outblock/FRW
+***
